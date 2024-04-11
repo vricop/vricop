@@ -14,7 +14,7 @@ I'm a passionate Next.js/React Front-end developer with 4 years of experience.<b
 - 🎨 **Design Tokens:** Style Dictionary
 - 🚀 **APIs:** GraphQL, Apollo Client
 - 💾 **Database:** Prisma, SQL
-- 🤖 **Other Tools:** ChatGPT, Zellij, Postman
+- 🤖 **Other Tools:** Neovim, LazyGit, iTerm2, ChatGPT, Zellij, Postman
 
 ## Design Tools 🎨
 
